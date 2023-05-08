@@ -4,7 +4,7 @@
 -  I’m looking to collaborate on Blender projects and Social Engineering tasks, ML/DL projects
 -  How to reach me Email ID - arhamasif2702@gmail.com / Instagram - arhamasif2702
 
-[![Sai Nishwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arham2702&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Arham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arham2702&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham2702)]
 
